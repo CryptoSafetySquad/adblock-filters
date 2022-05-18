@@ -1,0 +1,88 @@
+! Title: Crypto Filters by CryptoSafetySquad
+! Description: A list of known bad sites involved in crypto scams.
+!
+! Homepage: https://github.com/CryptoSafetySquad/adblock-filters/blob/main/crypto.txt
+!
+! GitHub pull requests: https://github.com/CryptoSafetySquad/adblock-filters/pulls
+!
+! Contents
+! 1. Generic Mint Scams
+! 2. Project Specific Scams
+! 3. Rug Pulled Projects
+! 4. Other (or not yet classified).
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! 1. Generic Scams: eg mint/collab !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+||bnbroyal.io
+||captcha.digital
+||collbland.cc
+||datacollabportal.com
+||live-mints.com
+||mint-pre.live
+||mint-nfts.me
+||mint-salesweb.com
+||mintnft-cheapest.com
+||mintnftsale.live
+||mints-nft.live
+||s2-collab.land
+||slug-collab.club
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! 2. Project Specific Scams !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+! Alpha Kongs Club - real site: https://www.alphakongsclub.com/
+||alphakongs.app
+||alphakongsclub.netlify.app
+||alphakongsclubnft.live
+||alphakongsproject.com
+||alphakongzserver.net
+||thealphakongs.com
+
+! Alpha Nodes - real site: https://alphanodes.finance/
+||alphanodes.app
+
+! Genopets - real site: https://www.genopets.me/
+||genopets-mint.com
+
+! Illuvium - real site: https://www.illuvium.io/
+||illeuvium.io
+
+! Imaginary Ones - real site: https://imaginaryones.com/
+||imaginary-ones.online
+
+! Mob.land - real site: https://mob.land/
+||mint-mob.land
+
+! Moonbirds - real site: https://moonbirds.xyz/
+||allowlists-moonbirds.xyz
+
+! Undead Blocks - real site: https://www.undeadblocks.com/
+||un-deadblocks.com
+||undeadblocks.live
+
+! VeeFriends - real site: https://veefriends.com/
+||veefriend.art
+
+! WaifuHarem Club Scams - real site: https://www.waifuharem.club/
+||waifuharem-mint.club
+||waifuharemclub.com
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! 3. Rug Pulled Projects (All traces disappeared after mint or x amount of time) !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+||bnbbrokers.app
+||kingdomspritez.com
+||zion-finance.com
+
+!!!!!!!!!!!!
+! 4. Other !
+!!!!!!!!!!!!
+||apeszukiclub.com
+||elontoday.org
+||give-sandbox.com
+||invisiblefriendz.com
+||zukiapeclub.com
+||nftapes.win
