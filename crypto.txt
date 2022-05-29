@@ -44,6 +44,9 @@
 ! Alpha Nodes - real site: https://alphanodes.finance/
 ||alphanodes.app
 
+! Comb Financuial - real site: https://comb.financial/
+||comb.fund
+
 ! Genopets - real site: https://www.genopets.me/
 ||genopets-mint.com
 
