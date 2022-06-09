@@ -20,6 +20,7 @@
 ||collbland.cc
 ||datacollabportal.com
 ||live-mints.com
+||mint-livenow.com
 ||mint-pre.live
 ||mint-nfts.me
 ||mint-salesweb.com
