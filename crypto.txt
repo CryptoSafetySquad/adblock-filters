@@ -90,10 +90,12 @@
 ! 4. Other !
 !!!!!!!!!!!!
 ||apeszukiclub.com
+||blatetbit.com
 ||elontoday.org
 ||give-sandbox.com
 ||invisiblefriendz.com
-||zukiapeclub.com
 ||nftapes.win
-||blatetbit.com
+||opensea.xyz
+||opensea.org
 ||teaminformatica.ch
+||zukiapeclub.com
