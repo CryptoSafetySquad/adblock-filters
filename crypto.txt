@@ -82,6 +82,7 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! 3. Rug Pulled Projects (All traces disappeared after mint or x amount of time) !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+||aleph.finance
 ||bnbbrokers.app
 ||kingdomspritez.com
 ||zion-finance.com
