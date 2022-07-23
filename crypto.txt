@@ -101,5 +101,6 @@
 ||nftapes.win
 ||opensea.xyz
 ||opensea.org
+||polar.financial
 ||teaminformatica.ch
 ||zukiapeclub.com
