@@ -19,6 +19,7 @@
 ||captcha.digital
 ||collbland.cc
 ||connectcollablend.cc
+||connectingcollabland.cc
 ||connected-collab.land
 ||datacollabportal.com
 ||live-mints.com
