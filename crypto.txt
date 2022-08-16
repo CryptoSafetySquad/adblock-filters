@@ -22,6 +22,7 @@
 ||connectcollablend.cc
 ||connected-collab.land
 ||connectingcollabland.cc
+||connecton-collab.land
 ||datacollabportal.com
 ||live-mints.com
 ||mint-livenow.com
