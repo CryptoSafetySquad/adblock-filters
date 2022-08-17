@@ -105,5 +105,6 @@
 ||nftapes.win
 ||opensea.xyz
 ||opensea.org
+||subtlemarket.netlify.app
 ||teaminformatica.ch
 ||zukiapeclub.com
