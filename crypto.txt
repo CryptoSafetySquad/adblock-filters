@@ -17,13 +17,6 @@
 
 ||bnbroyal.io
 ||captcha.digital
-||collbland.cc
-||connect-coliab.land
-||connectcollablend.cc
-||connected-collab.land
-||connect1-collab.land
-||connectingcollabland.cc
-||connecton-collab.land
 ||datacollabportal.com
 ||live-mints.com
 ||mint-livenow.com
@@ -34,7 +27,6 @@
 ||mintnftsale.live
 ||mints-nft.live
 ||mintyournfts.live
-||s2-collab.land
 ||slug-collab.club
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -54,6 +46,17 @@
 
 ! Comb Financuial - real site: https://comb.financial/
 ||comb.fund
+
+! Collab.Land - real site: https://collab.land/
+||connect-3-collab.land
+||collbland.cc
+||connect-coliab.land
+||connectcollablend.cc
+||connected-collab.land
+||connect1-collab.land
+||connectingcollabland.cc
+||connecton-collab.land
+||s2-collab.land
 
 ! Genopets - real site: https://www.genopets.me/
 ||genopets-mint.com
