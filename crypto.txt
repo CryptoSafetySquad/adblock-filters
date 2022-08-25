@@ -57,6 +57,7 @@
 ||connectingcollabland.cc
 ||connecton-collab.land
 ||s2-collab.land
+||connect-server1-collab.land
 
 ! Genopets - real site: https://www.genopets.me/
 ||genopets-mint.com
