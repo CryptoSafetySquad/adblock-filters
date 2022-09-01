@@ -60,12 +60,18 @@
 ||connect-server1-collab.land
 ||server-collab.land
 ||connect-to-collab.land
+! Block anything ending with collab.land
+*collab.land
+! Whitelist the real collab.land domain
+@@||collab.land
 
 ! Genopets - real site: https://www.genopets.me/
 ||genopets-mint.com
+@@||genopets.me
 
 ! Illuvium - real site: https://www.illuvium.io/
 ||illeuvium.io
+@@||illuvium.io
 
 ! Imaginary Ones - real site: https://imaginaryones.com/
 ||imaginary-ones.online
