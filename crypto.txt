@@ -18,6 +18,7 @@
 ||bnbroyal.io
 ||captcha.digital
 ||datacollabportal.com
+||importvalidator.org
 ||live-mints.com
 ||mint-livenow.com
 ||mint-pre.live
