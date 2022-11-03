@@ -15,6 +15,7 @@
 ! 1. Generic Scams: eg mint/collab !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+||airdrop-mints.com
 ||bnbroyal.io
 ||captcha.digital
 ||datacollabportal.com
