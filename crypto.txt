@@ -30,6 +30,7 @@
 ||mints-nft.live
 ||mintyournfts.live
 ||moodflip.site
+||nifty-portal.xyz
 ||slug-collab.club
 ||speshcats.fun
 ||freemint-web.com
