@@ -51,6 +51,9 @@
 ! Alpha Nodes - real site: https://alphanodes.finance/
 ||alphanodes.app
 
+! BoredApeYachtClub
+||xn--boredapyachtclub-sec.com
+
 ! Comb Financuial - real site: https://comb.financial/
 ||comb.fund
 
