@@ -20,6 +20,7 @@
 ||captcha.digital
 ||datacollabportal.com
 ||doodlesbox.xyz
+||freemint-web.com
 ||importvalidator.org
 ||live-mints.com
 ||mint-livenow.com
@@ -34,7 +35,7 @@
 ||nifty-portal.xyz
 ||slug-collab.club
 ||speshcats.fun
-||freemint-web.com
+||whop.info
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! 2. Project Specific Scams !
