@@ -59,6 +59,7 @@
 ! BoredApeYachtClub / Yuga Labs - real site: https://yuga.com
 ||xn--boredapyachtclub-sec.com
 ||labsyuga.com
+||yuga-labs.com
 ||yugaslab.com
 
 ! Comb Financuial - real site: https://comb.financial/
