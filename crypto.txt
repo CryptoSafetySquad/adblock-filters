@@ -38,6 +38,7 @@
 ||moodflip.site
 ||nifty-portal.xyz
 ||otcsudoswap.xyz
+||paintstore.io
 ||slug-collab.club
 ||speshcats.fun
 ||whop.info
