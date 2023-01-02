@@ -87,6 +87,9 @@
 ! Whitelist the real collab.land domain
 @@||collab.land
 
+! CryptoPunks
+||cryptopunks-mint.app
+
 ! Genopets - real site: https://www.genopets.me/
 ||genopets-mint.com
 @@||genopets.me
