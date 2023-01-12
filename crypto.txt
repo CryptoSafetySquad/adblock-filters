@@ -131,6 +131,7 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ||aleph.finance
 ||bnbbrokers.app
+||circulate.money
 ||kingdomspritez.com
 ||sfusd.io
 ||stablefund.app
