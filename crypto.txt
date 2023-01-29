@@ -153,6 +153,7 @@
 ||nftapes.win
 ||opensea.xyz
 ||opensea.org
+||optimism-event.xyz
 ||subtlemarket.netlify.app
 ||teaminformatica.ch
 ||tombraidernft.xyz
