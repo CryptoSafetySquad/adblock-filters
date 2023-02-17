@@ -28,6 +28,7 @@
 ||gwnfts.com
 ||importvalidator.org
 ||live-mints.com
+||mdvmm.xyz
 ||medicomarketing.com.br
 ||mint-livenow.com
 ||mint-pre.live
@@ -45,6 +46,7 @@
 ||slug-collab.club
 ||speshcats.fun
 ||strettonft.com
+||sewerpass-register.com
 ||whop.info
 ||wl-sale.com
 ||x2bitcoins.net
