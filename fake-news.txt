@@ -1,1 +1,8 @@
+! Title: Fake News Filters by CryptoSafetySquad
+! Description: A list of known bad sites promoting fake news/scams.
+!
+! Homepage: https://github.com/CryptoSafetySquad/adblock-filters/blob/main/fake-news.txt
+!
+! GitHub pull requests: https://github.com/CryptoSafetySquad/adblock-filters/pulls
+
 ||themirrorinside.com
