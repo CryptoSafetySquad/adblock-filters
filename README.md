@@ -7,3 +7,5 @@ Adblockers such as uBlock Origin (the one we recommend) do a pretty good job by 
 click uBlock icon, go to dashboard, under custom click import, paste in the URL(s):
 
     https://raw.githubusercontent.com/CryptoSafetySquad/adblock-filters/main/crypto.txt
+    
+    https://raw.githubusercontent.com/CryptoSafetySquad/adblock-filters/main/fake-news.txt
