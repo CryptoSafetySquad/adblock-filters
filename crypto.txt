@@ -158,6 +158,7 @@
 ||opensea.xyz
 ||opensea.org
 ||optimism-event.xyz
+||spotvolumetrader.com
 ||subtlemarket.netlify.app
 ||teaminformatica.ch
 ||tombraidernft.xyz
