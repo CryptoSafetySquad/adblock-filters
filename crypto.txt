@@ -103,6 +103,7 @@
 
 ! HydroWhalesMiningClub - real site: hydrowhalesclub.com
 ||hydrowhalesclub.xyz
+||whales.farm
 
 ! Illuvium - real site: https://www.illuvium.io/
 ||illeuvium.io
