@@ -38,6 +38,7 @@
 ||mintnftsale.live
 ||mints-nft.live
 ||mintyournfts.live
+||mintyoursnft.net
 ||moodflip.site
 ||nifty-portal.xyz
 ||nft-rtfkt.com
