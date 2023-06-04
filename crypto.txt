@@ -28,6 +28,7 @@
 ||gwnfts.com
 ||importvalidator.org
 ||live-mints.com
+||loyaltoken.app
 ||mdvmm.xyz
 ||medicomarketing.com.br
 ||mint-livenow.com
