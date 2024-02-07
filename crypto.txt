@@ -110,6 +110,7 @@
 
 ! Illuvium - real site: https://www.illuvium.io/
 ||illeuvium.io
+||event-illuvium.com
 @@||illuvium.io
 
 ! Imaginary Ones - real site: https://imaginaryones.com/
